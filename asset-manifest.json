@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hamza-asif/static/css/main.35a358a1.css",
+    "main.js": "/hamza-asif/static/js/main.f27e3f0b.js",
+    "static/js/453.33733faf.chunk.js": "/hamza-asif/static/js/453.33733faf.chunk.js",
+    "static/media/microservices.jpg": "/hamza-asif/static/media/microservices.e6cfb68e2dd6c021ad67.jpg",
+    "static/media/ecommerce.png": "/hamza-asif/static/media/ecommerce.d2ad64a7244e14e758fb.png",
+    "static/media/bg-light.png": "/hamza-asif/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/hamza-asif/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/bessersol.png": "/hamza-asif/static/media/bessersol.4afef3c54c1b18320aa2.png",
+    "static/media/bss.png": "/hamza-asif/static/media/bss.ddb91cbbd34bbb81611b.png",
+    "static/media/plantdoc.png": "/hamza-asif/static/media/plantdoc.cf79fbe8285c2ffa3040.png",
+    "static/media/profile-pic-bw.jpeg": "/hamza-asif/static/media/profile-pic-bw.2f8cb4029921689894ff.jpeg",
+    "index.html": "/hamza-asif/index.html",
+    "main.35a358a1.css.map": "/hamza-asif/static/css/main.35a358a1.css.map",
+    "main.f27e3f0b.js.map": "/hamza-asif/static/js/main.f27e3f0b.js.map",
+    "453.33733faf.chunk.js.map": "/hamza-asif/static/js/453.33733faf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35a358a1.css",
+    "static/js/main.f27e3f0b.js"
+  ]
+}
