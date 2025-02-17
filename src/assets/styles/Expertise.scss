@@ -60,6 +60,12 @@
     color: rgb(39, 40, 34);
 }
 
+.skill {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
 @media screen {
     @media (max-width: 768px) {
         .skills-container {

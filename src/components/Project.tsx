@@ -9,38 +9,60 @@ import mock07 from '../assets/images/mock07.png';
 import mock08 from '../assets/images/mock08.png';
 import mock09 from '../assets/images/mock09.png';
 import mock10 from '../assets/images/mock10.png';
+
+import bessersol from '../assets/images/bessersol.png';
+import plantDoc from '../assets/images/plantdoc.png';
+import bss from '../assets/images/bss.png';
+import microservices from '../assets/images/microservices.jpg'
+import ecommerce from '../assets/images/ecommerce.png'
+
 import '../assets/styles/Project.scss';
 
 function Project() {
     return(
     <div className="projects-container" id="projects">
-        <h1>Personal Projects</h1>
+        <h1>Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <p><img src={bss} className="zoom" alt="thumbnail" width="100%"/></p>
+                <p><h2>Business Support System</h2></p>
+                <p>Worked on a Business Support System for an Admin to manage their entire Distribution chain.
+                    And also for different Entities in the Business to have their own role-based menus
+                    to manage specific workflows.
+                </p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <p><img src={microservices} className="zoom" alt="thumbnail" width="100%"/></p>
+                <p><h2>MicroServices Backend</h2></p>
+
+                <p>Developed Backend using Microservices Architecture for an Online Money Wallet.
+                    Dockerized the services & handled CI/CD pipelines.    
+                </p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Astro Raiders</h2></a>
-                <p>Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.</p>
+                <p><img src={bessersol} className="zoom" alt="thumbnail" width="100%"/></p>
+                <p><h2>BesserSol</h2></p>
+                <p>Portfolio website for a Software Startup based in Munich, Germany. Developed with React.js</p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Datum: Integrated Learning Platform</h2></a>
-                <p>This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.</p>
+                <p><img src={plantDoc} className="zoom" alt="thumbnail" width="100%"/></p>
+                <p><h2>In-Hand Botanics</h2></p>
+                
+                <p>Admin Analytical Dashboard for a Platform called In-Hand Botanics.
+                    Admin can look at Sales metrics, manage the Employees working under them & look at
+                    new Orders from Customers etc. Made using Next.js.
+                </p>
             </div>
+            
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>WeManage: Real Estate Asset Management</h2></a>
-                <p>This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.</p>
+                <p><img src={ecommerce} className="zoom" alt="thumbnail" width="100%"/></p>
+                <p><h2>FastCart - Ecommerce Platform</h2></p>
+
+                <p>Online shopping platform created using Laravel & it's built in templating engine.
+                    Complete with Admin panel to manage store inventory and look at sales.    
+                </p>
             </div>
+{/* 
             <div className="project">
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>COVID-19 Case Management</h2></a>
@@ -65,7 +87,7 @@ function Project() {
                 <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><h2>Submeowrine</h2></a>
                 <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
-            </div>
+            </div> */}
         </div>
     </div>
     );

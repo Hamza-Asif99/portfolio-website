@@ -6,25 +6,24 @@ import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timel
 import 'react-vertical-timeline-component/style.min.css';
 import '../assets/styles/Timeline.scss'
 
-function Timeline() {
+function Testimonials() {
   return (
     <div id="history">
       <div className="items-container">
-        <h1>Career History</h1>
+        <h1>Testimonials</h1>
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2023 - present"
+            date=""
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Developer</h3>
-            <h4 className="vertical-timeline-element-subtitle">@ SafariOne</h4>
+            <h3 className="vertical-timeline-element-title">Freelance Client - "rival51"</h3>
+            <h4 className="vertical-timeline-element-subtitle">🌟 🌟 🌟 🌟 🌟 </h4>
             <p>
-              Full-stack Web Development, Dockerized micro-services, CI/CD pipelines
-            </p>
+            Outstanding Progress-Driven Developer – Perfect for Phased Projects! I hired Hamza from devdesignfusion to develop a semi-finished backend application using NestJS with SSO integration, and he delivered exactly what I needed! The project was structured as a progress-based milestone (not a fully completed app), and Hamza handled this arrangement flawlessly. His expertise in Node.js, NestJS, and SSO implementation shone through as he built a clean, scalable foundation for future development. What impressed me most was his ability to adapt to the project’s phased nature. He maintained clear communication throughout, provided regular updates, and ensured every aspect of the agreed scope was executed meticulously. His code was well-organized, documented, and optimized for scalability, making it easy for my team to take over and build further. Though the project isn’t fully complete (as intended), Hamza’s work exceeded my expectations for this phase. He respected the budget and timeline, delivered a robust modular foundation, and even offered guidance on next steps. If you need a flexible, skilled backend developer for partial builds, iterative work, or progress-driven collaborations, Hamza is a top-tier choice. 5/5 stars – Transparent, professional, and highly competent. Will hire again for future phases!            </p>
           </VerticalTimelineElement>
 
           <VerticalTimelineElement
@@ -33,10 +32,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Freelance Web Developer</h3>
-            {/* <h4 className="vertical-timeline-element-subtitle">Fiverr</h4> */}
+            <h3 className="vertical-timeline-element-title">Freelance Client - "stoOller"</h3>
+            <h4 className="vertical-timeline-element-subtitle">🌟 🌟 🌟 🌟 🌟</h4>
             <p>
-              Frontend Development, Backend Development, Bug Fixes
+            Hamza was excellent, communicated clearly and understood the problem almost immediately. Clean work delivered in the due time. Would definitely recommend.
             </p>
           </VerticalTimelineElement>
 
@@ -70,4 +69,4 @@ function Timeline() {
   );
 }
 
-export default Timeline;
+export default Testimonials;

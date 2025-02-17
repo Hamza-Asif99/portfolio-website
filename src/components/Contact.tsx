@@ -55,7 +55,8 @@ function Contact() {
         <div className="contact_wrapper">
           <h1>Contact Me</h1>
           <p>Got a project waiting to be realized? Let's collaborate and make it happen!</p>
-          <Box
+          <p>Best way to reach out is to message me on LinkedIn, or email me at <u>hamzasif929@gmail.com</u></p>
+          {/* <Box
             ref={form}
             component="form"
             noValidate
@@ -106,7 +107,7 @@ function Contact() {
             <Button variant="contained" endIcon={<SendIcon />} onClick={sendEmail}>
               Send
             </Button>
-          </Box>
+          </Box> */}
         </div>
       </div>
     </div>
