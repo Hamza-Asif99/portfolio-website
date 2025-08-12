@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.df8cfda7.css",
-    "main.js": "/portfolio-website/static/js/main.cdf5abde.js",
-    "static/js/453.2ddb282f.chunk.js": "/portfolio-website/static/js/453.2ddb282f.chunk.js",
-    "static/media/microservices.jpg": "/portfolio-website/static/media/microservices.e6cfb68e2dd6c021ad67.jpg",
-    "static/media/ecommerce.png": "/portfolio-website/static/media/ecommerce.d2ad64a7244e14e758fb.png",
-    "static/media/bg-light.png": "/portfolio-website/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/portfolio-website/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/bessersol.png": "/portfolio-website/static/media/bessersol.4afef3c54c1b18320aa2.png",
-    "static/media/bss.png": "/portfolio-website/static/media/bss.ddb91cbbd34bbb81611b.png",
-    "static/media/plantdoc.png": "/portfolio-website/static/media/plantdoc.cf79fbe8285c2ffa3040.png",
-    "static/media/profile-pic-bw.jpeg": "/portfolio-website/static/media/profile-pic-bw.2f8cb4029921689894ff.jpeg",
-    "index.html": "/portfolio-website/index.html",
-    "main.df8cfda7.css.map": "/portfolio-website/static/css/main.df8cfda7.css.map",
-    "main.cdf5abde.js.map": "/portfolio-website/static/js/main.cdf5abde.js.map",
-    "453.2ddb282f.chunk.js.map": "/portfolio-website/static/js/453.2ddb282f.chunk.js.map"
+    "main.css": "/static/css/main.1d613203.css",
+    "main.js": "/static/js/main.036b4a64.js",
+    "static/js/453.0cd8399d.chunk.js": "/static/js/453.0cd8399d.chunk.js",
+    "static/media/microservices.jpg": "/static/media/microservices.e6cfb68e2dd6c021ad67.jpg",
+    "static/media/ecommerce.png": "/static/media/ecommerce.d2ad64a7244e14e758fb.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/bessersol.png": "/static/media/bessersol.4afef3c54c1b18320aa2.png",
+    "static/media/bss.png": "/static/media/bss.ddb91cbbd34bbb81611b.png",
+    "static/media/plantdoc.png": "/static/media/plantdoc.cf79fbe8285c2ffa3040.png",
+    "static/media/profile-pic-bw.jpeg": "/static/media/profile-pic-bw.2f8cb4029921689894ff.jpeg",
+    "index.html": "/index.html",
+    "main.1d613203.css.map": "/static/css/main.1d613203.css.map",
+    "main.036b4a64.js.map": "/static/js/main.036b4a64.js.map",
+    "453.0cd8399d.chunk.js.map": "/static/js/453.0cd8399d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df8cfda7.css",
-    "static/js/main.cdf5abde.js"
+    "static/css/main.1d613203.css",
+    "static/js/main.036b4a64.js"
   ]
 }
