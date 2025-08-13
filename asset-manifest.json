@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d613203.css",
+    "main.css": "/static/css/main.14950a81.css",
     "main.js": "/static/js/main.036b4a64.js",
     "static/js/453.0cd8399d.chunk.js": "/static/js/453.0cd8399d.chunk.js",
     "static/media/microservices.jpg": "/static/media/microservices.e6cfb68e2dd6c021ad67.jpg",
     "static/media/ecommerce.png": "/static/media/ecommerce.d2ad64a7244e14e758fb.png",
-    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/bg-light.webp": "/static/media/bg-light.88dc839ed7c7b6fe2212.webp",
     "static/media/bessersol.png": "/static/media/bessersol.4afef3c54c1b18320aa2.png",
+    "static/media/bg-dark.webp": "/static/media/bg-dark.e0b874e56c8dfd6c5eca.webp",
     "static/media/bss.png": "/static/media/bss.ddb91cbbd34bbb81611b.png",
     "static/media/plantdoc.png": "/static/media/plantdoc.cf79fbe8285c2ffa3040.png",
     "static/media/profile-pic-bw.jpeg": "/static/media/profile-pic-bw.2f8cb4029921689894ff.jpeg",
     "index.html": "/index.html",
-    "main.1d613203.css.map": "/static/css/main.1d613203.css.map",
+    "main.14950a81.css.map": "/static/css/main.14950a81.css.map",
     "main.036b4a64.js.map": "/static/js/main.036b4a64.js.map",
     "453.0cd8399d.chunk.js.map": "/static/js/453.0cd8399d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d613203.css",
+    "static/css/main.14950a81.css",
     "static/js/main.036b4a64.js"
   ]
 }
